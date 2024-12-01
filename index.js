@@ -7,7 +7,7 @@ console.log("ali huzaiah");
 console.log("hellos");
 console.log("hellos");
 console.log("hellos");
-console.log("hellos");
+console.log("moeez");
 console.log("hellos");
 console.log("hellos");
 console.log("hellos");
